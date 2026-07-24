@@ -47,7 +47,8 @@ This project uses two built-in datasets available in **R**:
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71450161-ebf3-436a-9881-7b421b32071a" alt="Dashboard Preview" width="900">
+ <img width="973" height="831" alt="image" src="https://github.com/user-attachments/assets/3cd21899-bfa7-40bb-9427-49d8b8493403" />
+
 </p>
 
 ---
